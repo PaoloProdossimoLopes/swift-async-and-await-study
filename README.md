@@ -1,20 +1,16 @@
-#  TITLE
-DESCRIPTION ...
-
-## 🧰 Example:
-```swift
-```
+#  Async and Await
+I will use this repo to hold all studies around new feature provided by the apple
 
 ## ℹ️  GETTING STARTED
 ### PREREQUISITES 
-- Swift 4+
-- Xcode 10+
+- Swift 5+
+- Xcode 14+
 
 ### INSTALATION
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/repository-template.git
+git clonehttps://github.com/PaoloProdossimoLopes/swift-async-and-await-study
 ```
 3. Open the file with extension .xcodeproj inside the folder project.
    
